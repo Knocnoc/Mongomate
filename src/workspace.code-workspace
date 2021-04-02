@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "example",
+			"path": "../example"
+		},
+		{
+			"name": "Mongomate",
+			"path": "../../../Documents/github/Mongomate"
+		},
+		{
+			"name": "src",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
